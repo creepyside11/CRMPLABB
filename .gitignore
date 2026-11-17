@@ -1,0 +1,4 @@
+*.amx
+server.log
+crashinfo.txt
+scriptfiles/
